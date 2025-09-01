@@ -8,3 +8,5 @@ font-size = 14
 window-decoration = "none"
 # macos-titlebar-style = "hidden"
 
+quit-after-last-window-closed = "true"
+
