@@ -5,3 +5,6 @@ font-size = 14
 
 # font-family = UbuntuMono Nerd Font
 
+window-decoration = "none"
+# macos-titlebar-style = "hidden"
+
